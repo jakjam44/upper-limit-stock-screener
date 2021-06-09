@@ -2,4 +2,4 @@
 
 Hello!
 
-This a program that will scan all the stocks in the National Stock Exhange of India and tell you which stocks have been consistently hitting their X% limits (upper or lower) for Y days.
+This a program that will scan all the stocks in the National Stock Exhange of India and tell you which stocks below ₹X have been consistently hitting Y% (+-1%) for Z days.
